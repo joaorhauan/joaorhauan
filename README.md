@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou João Rhauan, natural de Natal/RN☀️. Fiz o curso técnico de informática para internet no Instituto Metrópole Digital/UFRN. Atualmente sou tutor de programação web e banco de dados no Instituto Federal do RN Campus Natal/ZN e busco utilizar da tecnologia para melhorar o mundo.
+Nascido em Natal/RN☀️, sempre fui apaixonado por tecnologia. Fiz o curso técnico de informática para internet no Instituto Metrópole Digital/UFRN. Atualmente sou tutor de programação web e banco de dados no Instituto Federal do RN Campus Natal/ZN e busco utilizar da tecnologia para melhorar o mundo.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color="36454F"&duration=4000&lines="A+única+maneira;de+fazer+um+ótimo+trabalho;é+amar+o+que+você+faz;Se+você+ainda+não+encontrou,;continue+procurando;Não+se+acomode.;~+Steve+Jobs)](https://git.io/typing-svg)
 
